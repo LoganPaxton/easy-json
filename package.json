@@ -1,0 +1,26 @@
+{
+  "name": "easy-json",
+  "version": "1.0.0",
+  "description": "A quick way of adding JSON to your scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganPaxton/easy-json.git"
+  },
+  "keywords": [
+    "JSON"
+  ],
+  "author": "LoganPaxton",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/LoganPaxton/easy-json/issues"
+  },
+  "homepage": "https://github.com/LoganPaxton/easy-json#readme",
+  "dependencies": {
+    "available": "^2.2.1",
+    "fs": "^0.0.1-security"
+  }
+}
